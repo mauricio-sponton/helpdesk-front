@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(155,44,226);
+    background: linear-gradient(45deg, rgba(155,44,226,1) 6%, rgba(191,135,235,1) 100%);   
+}
+
+h1{
+    margin-top: 1rem;
+    border-radius: 2rem;
+    color: white;
+}
